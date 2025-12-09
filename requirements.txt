@@ -1,0 +1,10 @@
+boto3
+pandas
+pyarrow
+pytest
+black
+isort
+pre-commit
+flake8
+requests
+great_expectations
